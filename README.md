@@ -6,11 +6,11 @@ An interactive tool that helps users practice interviews by analyzing resumes, g
 This AI-powered tool helps users prepare for interviews by simulating a real interview experience. It extracts skills from uploaded resumes (PDF/DOCX), generates customized technical and HR questions, and uses text-to-speech to ask them aloud. Users upload a video of their responses, and the system gives feedback based on simulated emotion analysis to improve communication and confidence.
 +
 + # 🚀 Key Features
-+- 🔍Resume Parsing: Extracts skills from PDF/DOCX using spaCy NLP
-+- 🗣TTS Interview Questions: Asks tailored technical & HR questions via gTTS
-+- 🎤Video Upload: Users upload interview responses for review
-+- 📊Emotion Feedback: Simulates emotional analysis (happy, fear, neutral, etc.)
-+- Smart Tips: Suggests improvements based on emotional expression
+- 🔍Resume Parsing: Extracts skills from PDF/DOCX using spaCy NLP
+- 🗣TTS Interview Questions: Asks tailored technical & HR questions via gTTS
+- 🎤Video Upload: Users upload interview responses for review
+- 📊Emotion Feedback: Simulates emotional analysis (happy, fear, neutral, etc.)
+- Smart Tips: Suggests improvements based on emotional expression
 +
 +---
 +
