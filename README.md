@@ -12,8 +12,6 @@ This AI-powered tool helps users prepare for interviews by simulating a real int
 - 📊Emotion Feedback: Simulates emotional analysis (happy, fear, neutral, etc.)
 - Smart Tips: Suggests improvements based on emotional expression
 +
-+---
-+
 + # 🧠 Technologies Used
 | Feature                | Tools / Libraries                |
 |------------------------|----------------------------------|
