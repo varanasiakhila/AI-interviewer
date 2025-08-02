@@ -1,4 +1,4 @@
-@@ -1,2 +1,14 @@
+@@ -1,+1,27 @@
 + #  Emotion AI-interviewer
 An interactive tool that helps users practice interviews by analyzing resumes, generating personalized questions, simulating a voice-based interviewer, and giving emotion-based feedback from video responses.
 +
@@ -14,15 +14,16 @@ This AI-powered tool helps users prepare for interviews by simulating a real int
 +Smart Tips: Suggests improvements based on emotional expression
 +
 + # 🧠 Technologies Used
-+|Feature	Tools | Libraries |
-+|--------------|-----------|
-+|Resume Parsing|	pdfplumber, docx2txt, spaCy |
-+|Question Generation |	random, spaCy NLP |
-+|Audio Playback |	gTTS (Google TTS) |
-+|Emotion Simulation |	random, optionally FER |
-+|Video Handling & UI |	OpenCV, Gradio |
-+|Session Management | Python global dictionary |
++| Feature	Tools        | Libraries                   |
++|-----------------------|-----------------------------|
++| Resume Parsing        | pdfplumber, docx2txt, spaCy |
++| Question Generation   | random, spaCy NLP           |
++| Audio Playback        | gTTS (Google TTS)           |
++| Emotion Simulation    | random, optionally FER      |
++| Video Handling & UI   | OpenCV, Gradio              |
++| Session Management    | Python global dictionary    |
 +
++---
 +
 
 
