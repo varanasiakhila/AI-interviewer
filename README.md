@@ -2,7 +2,7 @@
  #  Emotion AI-Interviewer
 An interactive tool that helps users practice interviews by analyzing resumes, generating personalized questions, simulating a voice-based interviewer, and giving emotion-based feedback from video responses.
 +
- # Description 
+ # 📝 Description 
 This AI-powered tool helps users prepare for interviews by simulating a real interview experience. It extracts skills from uploaded resumes (PDF/DOCX), generates customized technical and HR questions, and uses text-to-speech to ask them aloud. Users upload a video of their responses, and the system gives feedback based on simulated emotion analysis to improve communication and confidence.
 +
  # 🚀 Key Features
